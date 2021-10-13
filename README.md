@@ -8,14 +8,15 @@
 <ul>
 <li><p>🔭 I’m currently working on: <a href="https://github.com/Acher0ns/Umbra-Mod-Menu">Risk of Rain 2 Mod Menu</a></p>
 </li>
-<li><p>🌱 I’m currently learning: <strong></strong></p>
+<li><p>🌱 I’m currently learning: <strong>C in Windows and Linux</strong></p>
 </li>
 <li><p>📫 How to reach me: <strong>Discord: Neonix#1337</strong></p>
 </li>
-<li><p>⚡ Fun fact: <strong></strong></p>
+ <!-- 
+<li><p>⚡ Fun facts: <strong></strong></p>
 </li>
 </ul>
-<h3 align="left">Connect with me ~</h3>
+<h3 align="left">Connect with me ~</h3> --!>
 
 
 <!--
