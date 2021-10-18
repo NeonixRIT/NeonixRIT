@@ -1,7 +1,7 @@
 <p><h1 align="center">Hi 👋, I&#39;m Kamron</h1></p>
 <h3 align="center"></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Acher0ns" alt="Kamron's profile count" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=Acher0ns" alt="Kamron's profile count" /> </p>
 
 
 
