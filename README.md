@@ -1,12 +1,12 @@
 <p><h1 align="center">Hi 👋, I&#39;m Kamron</h1></p>
 <h3 align="center"></h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=Acher0ns" alt="Kamron's profile count" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=NeonixRIT" alt="Kamron's profile count" /> </p>
 
 
 
 <ul>
-<li><p>🔭 I’m currently working on: <a href="https://github.com/Acher0ns/Umbra-Mod-Menu">Risk of Rain 2 Mod Menu</a></p>
+<li><p>🔭 I’m currently working on: <a href="https://github.com/Aquatic-Labs/Umbra-Mod-Menu">Risk of Rain 2 Mod Menu</a></p>
 </li>
 <li><p>🌱 I’m currently learning: <strong>C in Windows and Linux</strong></p>
 </li>
@@ -20,9 +20,9 @@
 
 
  <div>
-  <a href="https://github.com/Acher0ns">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Acher0ns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acher0ns&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/NeonixRIT">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeonixRIT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonixRIT&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
